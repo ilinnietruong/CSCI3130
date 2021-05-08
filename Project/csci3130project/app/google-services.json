@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "957303054390",
+    "firebase_url": "https://csci3130-pharmacy.firebaseio.com",
+    "project_id": "csci3130-pharmacy",
+    "storage_bucket": "csci3130-pharmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957303054390:android:822a4d5319d926056fb897",
+        "android_client_info": {
+          "package_name": "com.csci3130project14.medapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957303054390-nvh4cc89dgnsk5d7d6p4dlmb6fskrlei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csci3130project14.medapp",
+            "certificate_hash": "e0416c38efeead3b038da8b810d164950713eb98"
+          }
+        },
+        {
+          "client_id": "957303054390-3siid0h67bj8d0rjmd1veora27e30l1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csci3130project14.medapp",
+            "certificate_hash": "799fb8351964d07973d0a93f393e3a976bfe4764"
+          }
+        },
+        {
+          "client_id": "957303054390-06q97nfnaphqopu2tfi5o4fj0mc1k06j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMdkjusKygTQTvRV9XrhCHYaOYpWDIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957303054390-06q97nfnaphqopu2tfi5o4fj0mc1k06j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957303054390:android:22f33f776cbfac3d6fb897",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957303054390-ovu18m6muu654tu8gsu01i94sjqpfh5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "33fcbc4a7cab620fcbf6ea34869159538145592a"
+          }
+        },
+        {
+          "client_id": "957303054390-06q97nfnaphqopu2tfi5o4fj0mc1k06j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMdkjusKygTQTvRV9XrhCHYaOYpWDIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957303054390-06q97nfnaphqopu2tfi5o4fj0mc1k06j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

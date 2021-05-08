@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MedApp</string>
+
+    <!--Add Activity-->
+    <string name="enter_name">Enter Medication Name</string>
+    <string name="enter_dosageAmt">Enter Dosage Amount</string>
+    <string name="enter_time_of_day">Enter time of day </string>
+    <string name="enter_day_of_week">Enter day of week</string>
+
+    <!--Delete Activity-->
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_no">No</string>
+    <string name="confirmation_message">Are you sure you want to delete this item?</string>
+
+    <!--View Activity-->
+    <string name="add_med_prompt">Add Medicine(s)</string>
+    <string name="no_meds_message">You have no medication in your list</string>
+
+    <!--Med Item buttons-->
+    <string name="medEdit">EDIT</string>
+    <string name="medDelete">DELETE</string>
+
+</resources>

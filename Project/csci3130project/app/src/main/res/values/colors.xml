@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff130f</color>
+    <color name="colorPrimaryDark">#c20000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorMedName">#28265e</color>
+    <color name="colorMedDetails">#4e477e</color>
+    <color name="colorDefault">#000000</color>
+    <color name="medOptionButtons">#bdc1ae</color>
+    <color name="listDivider">#424242</color>
+</resources>

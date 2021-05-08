@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Reference: https://riptutorial.com/android/example/29260/add-divider-lines-to-recyclerview-items-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="line">
+    <size
+        android:width="1px"
+        android:height="1px"
+        />
+    <solid android:color="@color/listDivider"/>
+</shape>

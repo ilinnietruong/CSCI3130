@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".add_Activity">
+
+
+    <EditText
+        android:id="@+id/medTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_name"
+        android:layout_margin="16dp"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/medDosage_EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_dosageAmt"
+        android:layout_margin="16dp"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/medTimeOfDay_EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_time_of_day"
+        android:layout_margin="16dp"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/medDayOfWeek_EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_day_of_week"
+        android:layout_margin="16dp"
+        android:inputType="text" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/addMed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_toRightOf="@id/backtoView"
+            android:background="#525050"
+            android:text="Add" />
+
+        <Button
+            android:id="@+id/backtoView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="16dp"
+            android:text="Back to View" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
